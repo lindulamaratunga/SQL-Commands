@@ -17,3 +17,5 @@
 [08. Logical Operators (IN, ANY, ALL, >=, <=, AND, OR, NOT) in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2021.%20IN%2C%20ANY%2C%20ALL%2C%20AND%2C%20OR%2C%20NOT.pdf)
 
 [09. Transactions in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2022.%20Transactions.pdf)
+
+[10. Understanding Collation in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2024.%20Collation.pdf)
