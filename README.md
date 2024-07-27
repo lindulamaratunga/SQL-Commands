@@ -1,6 +1,6 @@
 # SQL Commands and Conditional Statements
 
-[01. SQL Commands and CRUD Operations in SQL(INSERT, SELECT, UPDATE, DELETE).](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2001.%20Quick%20Reference.pdf)
+[01. SQL Commands and CRUD Operations in SQL (INSERT, SELECT, UPDATE, DELETE).](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2001.%20Quick%20Reference.pdf)
 
 [02. Data Types in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2002.%20Data%20Types.pdf)
 
