@@ -6,7 +6,7 @@
 
 [03. Syntax in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2003.%20Syntax.pdf)
 
-[04. DDL Commands (CREATE, ALTER, DROP and TRUNCATE) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2004.%20Create%2C%20Modify%2C%20Delete%20%26%20List%20Tables.pdf)
+[04. DDL Commands (CREATE, ALTER, DROP, TRUNCATE) in SQL Server](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2004.%20Create%2C%20Modify%2C%20Delete%20%26%20List%20Tables.pdf)
 
 [05. DESC and ASC in SQL Server / MySQL](https://github.com/lindulamaratunga/Learn-SQL/blob/main/Lesson%2005.%20DESC%20%26%20ASC.pdf)
 
